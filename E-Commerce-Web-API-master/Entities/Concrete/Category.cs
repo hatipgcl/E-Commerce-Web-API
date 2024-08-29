@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Entities.Concrete
-{//çıplak class kalmamalı
+
     public class Category:IEntity
     {
         public int CategoryID { get; set; }
